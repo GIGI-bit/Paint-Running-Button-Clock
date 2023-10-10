@@ -1,0 +1,16 @@
+C:\Users\Sevgi\source\repos\Lesson1\RunningButton\obj\Debug\net6.0-windows\RunningButton.Form1.resources
+C:\Users\Sevgi\source\repos\Lesson1\RunningButton\obj\Debug\net6.0-windows\RunningButton.csproj.GenerateResource.cache
+C:\Users\Sevgi\source\repos\Lesson1\RunningButton\obj\Debug\net6.0-windows\RunningButton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sevgi\source\repos\Lesson1\RunningButton\obj\Debug\net6.0-windows\RunningButton.AssemblyInfoInputs.cache
+C:\Users\Sevgi\source\repos\Lesson1\RunningButton\obj\Debug\net6.0-windows\RunningButton.AssemblyInfo.cs
+C:\Users\Sevgi\source\repos\Lesson1\RunningButton\obj\Debug\net6.0-windows\RunningButton.csproj.CoreCompileInputs.cache
+C:\Users\Sevgi\source\repos\Lesson1\RunningButton\bin\Debug\net6.0-windows\RunningButton.exe
+C:\Users\Sevgi\source\repos\Lesson1\RunningButton\bin\Debug\net6.0-windows\RunningButton.deps.json
+C:\Users\Sevgi\source\repos\Lesson1\RunningButton\bin\Debug\net6.0-windows\RunningButton.runtimeconfig.json
+C:\Users\Sevgi\source\repos\Lesson1\RunningButton\bin\Debug\net6.0-windows\RunningButton.dll
+C:\Users\Sevgi\source\repos\Lesson1\RunningButton\bin\Debug\net6.0-windows\RunningButton.pdb
+C:\Users\Sevgi\source\repos\Lesson1\RunningButton\obj\Debug\net6.0-windows\RunningButton.dll
+C:\Users\Sevgi\source\repos\Lesson1\RunningButton\obj\Debug\net6.0-windows\refint\RunningButton.dll
+C:\Users\Sevgi\source\repos\Lesson1\RunningButton\obj\Debug\net6.0-windows\RunningButton.pdb
+C:\Users\Sevgi\source\repos\Lesson1\RunningButton\obj\Debug\net6.0-windows\RunningButton.genruntimeconfig.cache
+C:\Users\Sevgi\source\repos\Lesson1\RunningButton\obj\Debug\net6.0-windows\ref\RunningButton.dll
